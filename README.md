@@ -1,4 +1,4 @@
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dc2afe68-a7fa-4898-906a-ed9a848cd1c7" /> Grupo de Extensão e Pesquisa Perceptron (CEFET-MG)
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dc2afe68-a7fa-4898-906a-ed9a848cd1c7" /> Perceptron - Grupo de Extensão e Pesquisa
 
 Repositório oficial do **Grupo Perceptron**, uma iniciativa de extensão e pesquisa do **Departamento de Computação (DPC-LP)** do **CEFET-MG Campus Leopoldina**. O grupo é dedicado ao estudo, pesquisa e democratização de conhecimentos em **Inteligência Artificial**, **Aprendizado de Máquina** e áreas correlatas.
 
