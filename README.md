@@ -1,4 +1,4 @@
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dc2afe68-a7fa-4898-906a-ed9a848cd1c7" /> Perceptron - Grupo de Extensão e Pesquisa - CEFET/MG
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dc2afe68-a7fa-4898-906a-ed9a848cd1c7" /> Perceptron - Grupo de Extensão e Pesquisa 
 
 Repositório oficial do **Grupo de Extensão e Pesquisa Perceptron**, dedicado ao estudo, pesquisa e desenvolvimento de soluções em **Inteligência Artificial**, **Aprendizado de Máquina** e áreas correlatas.
 
