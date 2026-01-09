@@ -4,7 +4,7 @@ Repositório oficial do **Grupo Perceptron**, uma iniciativa de extensão e pesq
 
 ---
 
-## 📑 Índice
+## Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Objetivos](#-objetivos)
@@ -19,13 +19,13 @@ Repositório oficial do **Grupo Perceptron**, uma iniciativa de extensão e pesq
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Grupo Perceptron** (Código PJ170-2025) atua na integração entre ensino, pesquisa e extensão no **CEFET-MG**. Nosso foco é promover o aprimoramento técnico de discentes e a disseminação de conhecimentos sobre IA para a comunidade externa, incluindo alunos da rede municipal de Leopoldina. Buscamos desmistificar a Inteligência Artificial, tornando-a acessível e demonstrando seu impacto social e acadêmico.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - **Aprimoramento Técnico:** Promover o estudo aprofundado de IA entre alunos e professores do CEFET-MG.
 - **Produção Científica:** Incentivar a iniciação científica e a participação em congressos e eventos da área.
@@ -34,7 +34,7 @@ O **Grupo Perceptron** (Código PJ170-2025) atua na integração entre ensino, p
 
 ---
 
-## 🚀 Metodologia e Atividades
+## Metodologia e Atividades
 
 O grupo organiza suas ações em quatro pilares principais:
 
@@ -45,7 +45,7 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 🧠 Áreas de Pesquisa
+## Áreas de Pesquisa
 
 - Aprendizado de Máquina (Machine Learning)
 - Redes Neurais Artificiais e Deep Learning
@@ -56,7 +56,7 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 ├── docs/           # Documentação, artigos e materiais teóricos
@@ -69,7 +69,7 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagens:** Python
 - **Ambientes:** Jupyter Notebook, Google Colab
@@ -81,7 +81,7 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 1. Faça um **fork** do repositório.
 2. Crie uma **branch** para sua contribuição (`git checkout -b feature/nova-contribuicao`).
@@ -90,7 +90,7 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 📋 Boas Práticas
+## Boas Práticas
 
 - **Documentação:** Mantenha códigos e experimentos bem documentados.
 - **Padronização:** Utilize nomes claros para arquivos e variáveis seguindo o padrão do grupo.
@@ -99,13 +99,13 @@ O grupo organiza suas ações em quatro pilares principais:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto segue as diretrizes de propriedade intelectual do **CEFET-MG**. Consulte o arquivo `LICENSE` para detalhes sobre o uso e distribuição.
 
 ---
 
-## 📬 Contato
+## Contato
 
 **Grupo de Extensão e Pesquisa Perceptron**  
 **Instituição:** CEFET-MG Campus Leopoldina  
